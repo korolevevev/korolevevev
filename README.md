@@ -1,5 +1,5 @@
 ### Welcome to korolevevev's code world 🤖
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+korolevevev+code+world)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%580BE4&lines=Welcome+to+korolevevev+code+world)](https://git.io/typing-svg)
 
 <hr>
 
