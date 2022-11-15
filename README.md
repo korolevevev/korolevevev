@@ -19,6 +19,6 @@ I work and study on the following stack:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,ts,redux, html,css,git,jquery,bootstrap,figma,webpack,jest" />
+    <img src="https://skillicons.dev/icons?i=react,js,ts,redux,html,css,git,jquery,bootstrap,figma,webpack,jest" />
   </a>
 </p>
