@@ -16,3 +16,9 @@ I work and study on the following stack:
 🎨 You can see and test my projects from Pinned and Starred lists
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,ts,redux, html,css,git,jquery,bootstrap,figma,webpack,jest)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,ts,redux, html,css,git,jquery,bootstrap,figma,webpack,jest" />
+  </a>
+</p>
